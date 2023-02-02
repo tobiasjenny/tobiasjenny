@@ -1,5 +1,5 @@
-###👋 Hi, I’m @tobiasjenny
-###👀 I’m interested in everything coding realted
+- 👋 Hi, I’m @tobiasjenny
+- 👀 I’m interested in everything coding realted
 
 
 <!--
